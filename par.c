@@ -8,5 +8,5 @@ int main();
 	scanf("%d",& numero);
 	if(numero % 2== 0
 	printf("0 %d e par!", nemero;
-	return 0;
+	return  0;
 }
